@@ -20,7 +20,8 @@ Data Cleaning Process in Python.
 # Result
 
              id      market_cap_usd
- 0       bitcoin    2.130493e+11
+ 0                    bitcoin      2.130493e+11
+    
 
  1      ethereum    4.352945e+10
 
