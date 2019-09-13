@@ -10,19 +10,20 @@ https://api.coinmarketcap.com/v1/ticker/?limit=0 and name it as:
 
 coinmarketcap_06122017.csv
 
-#USE
+# USE
 
 Pandas Datframe.
 
 Data Cleaning Process in Python.
 
 
-#Result
+# Result
 
              id  market_cap_usd
 0       bitcoin    2.130493e+11
+
 1      ethereum    4.352945e+10
+
 2  bitcoin-cash    2.529585e+10
+
 3          iota    1.475225e+10
-
-
