@@ -1,8 +1,5 @@
-#!/usr/bin/env python
+#!/usr/rakibulalamshuvo
 # coding: utf-8
-
-# In[ ]:
-
 
 # Importing pandas
 import pandas as pd
